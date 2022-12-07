@@ -1,5 +1,5 @@
 # health_insurance_
-Simple probability statistical project on health insurance
+Simple probability project on health insurance
 
 This repository consists of data sets and jupyter notebook files regarding statistical probability analysis on health insurance.
 This project uses several libraries such as pandas, numpy, seaborn, statistics, and scipy. 
